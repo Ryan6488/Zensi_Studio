@@ -1,0 +1,3 @@
+ALTER TABLE products
+ADD COLUMN category TEXT,
+ADD COLUMN rating NUMERIC(2, 1);
