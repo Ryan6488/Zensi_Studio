@@ -87,5 +87,3 @@ This project is licensed under the **MIT License** – feel free to use and modi
 Built with ❤️ by **Ryan (Zensi Studio)**
 
 ---
-
-Do you want me to make this README **short and minimal** (like a clean portfolio showcase) or **detailed and professional** (like a production-ready project)?
